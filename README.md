@@ -14,7 +14,7 @@
 
 **A modern, full-featured app store platform built with Next.js 15**
 
-[🚀 Demo](#demo) • [✨ Features](#-features) • [📦 Installation](#-installation) • [📖 API Docs](#-api-documentation) • [🤝 Contributing](#-contributing)
+[🚀 Demo](#demo) • [✨ Features](#-features) • [📦 Installation](#-installation) • [📖 API Docs](./API_DOCUMENTATION.md) • [🤝 Contributing](#-contributing)
 
 </div>
 
